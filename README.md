@@ -10,5 +10,4 @@
 ```
 3. 直接运行pyserial.py
 运行成功的界面：
-![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/405/Snipaste_2022-08-23_23-52-22.png)
-
+![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/405/Snipaste_2022-08-24_11-34-37.png)
