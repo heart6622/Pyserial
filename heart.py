@@ -235,4 +235,4 @@ class Ui_Form(object):
         self.s2__clear_button.setText(_translate("Form", "清空接收"))
         self.label_2.setText(_translate("Form", "TX："))
         self.label.setText(_translate("Form", "RX："))
-        self.label_3.setText(_translate("Form", "@later V1.0"))
+        self.label_3.setText(_translate("Form", "@heart V1.0"))

@@ -1,6 +1,6 @@
 # 基于Python3、Qt5实现串口助手
 1. 安装PyQt5 
-    ```python
+ ```python
     pip install  PyQt5 -i https://pypi.tuna.tsinghua.edu.cn/simple
     pip install  pyqt5-tools -i https://pypi.tuna.tsinghua.edu.cn/simple
     ```
